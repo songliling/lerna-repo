@@ -1,18 +1,14 @@
 {
-  "name": "projectsonglilingtest",
+  "name": "project2",
   "version": "0.0.3",
-  "description": "project test1",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "songliling",
   "license": "ISC",
-  "devDependencies": {
-    "moment": "^2.22.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
+  "dependencies": {
+    "projectsonglilingtest": "^0.0.3"
   }
 }
