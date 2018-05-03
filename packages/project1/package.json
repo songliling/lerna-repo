@@ -1,10 +1,13 @@
 {
   "name": "projectsonglilingtest",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "project test1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "song": "./index.js"
   },
   "author": "songliling",
   "license": "ISC",
