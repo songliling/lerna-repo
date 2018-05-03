@@ -1,6 +1,6 @@
 {
   "name": "projectsonglilingtest2",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "songliling",
   "license": "ISC",
   "dependencies": {
-    "projectsonglilingtest": "^0.0.3"
+    "projectsonglilingtest": "^0.0.6"
   }
 }
